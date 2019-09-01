@@ -1,0 +1,13 @@
+---
+layout: home2
+title: Me in a Nutshell
+description: "Paul Stark's website"
+tags: [Jekyll, theme, responsive, blog, template]
+image:
+  feature: mountain.jpg
+---
+
+I am a walker in this blue world.
+
+<br />
+Things deserve to be recorded and shared to those who are meant to encounter in destiny.
