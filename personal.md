@@ -9,7 +9,7 @@ comments: false
 
 ----
 
-*Go Ducks! Go Monkeys! And Go fishes!*
+*Go Ducks! Go Dolphins! And Go fishes!*
 <br>
 <br>
 Once traveled in Suzhou, China. Lots of memories there.
