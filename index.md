@@ -4,7 +4,7 @@ title: Me in a Nutshell
 description: "Paul Stark's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: mountain.jpg
+  feature: seashore.jpg
 ---
 
 I am a walker in this blue world.
