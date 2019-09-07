@@ -9,15 +9,16 @@ disqus_shortname: ruianchor
 # Owner/author information
 owner:
   name:           Rui Anchor
-  avatar:         avatar.png
+  avatar:         profile.jpg
   bio:            I'm a walker in this blue world. Currently enjoy my life on Earth, Universe. Passionate about walking, and mountains.
   email:          rui.anchor@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        ruianchor
-  linkedin: 
+  linkedin:       ruianchor
+  facebook:       ruianchor
+  instagram:      ruianchor
+  github:         ruianchor
   google_scholar: 
-  google_plus: 
-  github: ruianchor
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-52736040-1
 google_verify:
