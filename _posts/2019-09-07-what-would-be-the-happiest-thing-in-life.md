@@ -27,6 +27,7 @@ Life is a long journey, someone goes, and someone comes. It's you, YOU are the o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5qu86ZdzU_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
+
 **一则小插曲分享：** 在图书馆看到一个约莫5、6岁的小女孩，我当时坐在走道旁的座位上，旁边走过一个小女孩，径直走向我右前方的一排书架，从书架中直接抽出一本封面是外国小女孩的书，然后盘起腿就开始翻起书来，但是一分钟不到就合起来了（估计是没什么插图）。
 
 接下来就是让我感觉惊叹的地方——小女孩将书放回书架的过程：
