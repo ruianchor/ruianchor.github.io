@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two Days' Vocation Time in Dalian"
+title: "Two Days' Vacation Time in Dalian"
 date: 2019-09-15
 author: anchor
 ---
