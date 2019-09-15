@@ -6,8 +6,10 @@ author: anchor
 ---
 
 This short vacation began for an idea coming into my mind in a hard-to-sleep night.
+<br>
 
 In this week, we had only four days for work because of the Chinese traditional Mid-Autumn Festival. So the weekend starts when off-work on Thursday. Maybe it's exactly the reason to make me have no willing to fall asleep that there are three days to fly myself, which means *放飞自我* in Chinese. Do something different would be a better choice instead of just staying at home in a normal way - playing computer games, watching tv series et al. So this is how it all begins.
+<br>
 
 I booked a ticket flying to Dalian from Shanghai with my iPhone. The next day, it is Friday, the airplane I took in started off at 12:05 pm. It was nearly 15:30 pm when I arrived at my hotel room, which also means it still has half-day left on Friday. Unfortunately, it rains outside in Dalian when I got to. And I really do think this vacation would be suck before Saturday's morning coming. Anyway, as has been here, no matter how the weather outside is, I still need to visit those famous viewpoints in Dalian.
 
