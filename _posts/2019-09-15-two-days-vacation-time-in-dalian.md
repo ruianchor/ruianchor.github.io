@@ -7,8 +7,10 @@ author: anchor
 
 This short vacation began for an idea coming into my mind in a hard-to-sleep night.
 <br>
+<br>
 
 In this week, we had only four days for work because of the Chinese traditional Mid-Autumn Festival. So the weekend starts when off-work on Thursday. Maybe it's exactly the reason to make me have no willing to fall asleep that there are three days to fly myself, which means *放飞自我* in Chinese. Do something different would be a better choice instead of just staying at home in a normal way - playing computer games, watching tv series et al. So this is how it all begins.
+<br>
 <br>
 
 I booked a ticket flying to Dalian from Shanghai with my iPhone. The next day, it is Friday, the airplane I took in started off at 12:05 pm. It was nearly 15:30 pm when I arrived at my hotel room, which also means it still has half-day left on Friday. Unfortunately, it rains outside in Dalian when I got to. And I really do think this vacation would be suck before Saturday's morning coming. Anyway, as has been here, no matter how the weather outside is, I still need to visit those famous viewpoints in Dalian.
@@ -16,6 +18,7 @@ I booked a ticket flying to Dalian from Shanghai with my iPhone. The next day, i
 ### Stars Bay
 
 After I checked in my hotel, The **Stars Bay**, which is a not-too-long seashore, was the first destination I visited since the reason it being nearby my hotel, only 15 mins walking from it. Nevertheless it had little rain in the sky, there were still so many tourists going to Stars Bay. Two things impressed me the most, one was many local people were taking fishing there, another one was several men were swimming in the sea. Of course, many tourists were the local families - parents with their little boys and little girls.
+<br>
 
 <p align="center">
 	<img src="{{site.baseurl}}/images/190915/15.jpg" width="540"  height="280">
