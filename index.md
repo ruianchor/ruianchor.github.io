@@ -10,7 +10,7 @@ image:
 I am a walker in this blue world.
 
 <br />
-Things deserve to be recorded and shared to those who are meant to encounter in destiny.
+Things deserve to be recorded and shared to those who are meant to encounter in destiny. I (mostly) avoid social media.
 
 ### 🆕NEWS🆕
 * [Sep 16th, 2019] Drinked a bottle of Germany beer again!
