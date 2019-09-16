@@ -5,29 +5,32 @@ title: Where has the time gone?
 tags: [personal]
 modified: 9-16-2019
 comments: false
+output:
+  html_document:
+    css: assets/tables.css
 ---
 
 ----
 
 Here's a summary of where I've spent my life (Some of these are of course estimates).
 
-<link href="assets/tables.css" rel="stylesheet"></link>
-
 <div class="table-users">
 
    <table cellspacing="0">
       <tr>
-         <th></th>
-         <th align="center">
+         <th align="left">
+            <b></b>
+         </th>
+         <th align="left">
             <b>#City</b>
          </th>
-         <th align="center">
+         <th align="left">
             <b>#Country</b>
          </th>
-         <th align="center">
+         <th align=";eft">
             <b>#Days</b>
          </th>
-         <th align="center">
+         <th align="left">
             <b>%</b>
          </th>
       </tr>
