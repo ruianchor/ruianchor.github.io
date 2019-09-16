@@ -27,7 +27,7 @@ Here's a summary of where I've spent my life (Some of these are of course estima
          <th align="left">
             <b>#Country</b>
          </th>
-         <th align=";eft">
+         <th align="left">
             <b>#Days</b>
          </th>
          <th align="left">
