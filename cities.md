@@ -7,21 +7,29 @@ modified: 9-16-2019
 comments: false
 ---
 
-<link href="assets/tables.css" rel="stylesheet"></link>
-
 ----
 
 Here's a summary of where I've spent my life (Some of these are of course estimates).
+
+<link href="assets/tables.css" rel="stylesheet"></link>
 
 <div class="table-users">
 
    <table cellspacing="0">
       <tr>
          <th></th>
-         <th>#City</th>
-         <th>#Country</th>
-         <th>#Days</th>
-         <th>%</th>
+         <th align="center">
+            <b>#City</b>
+         </th>
+         <th align="center">
+            <b>#Country</b>
+         </th>
+         <th align="center">
+            <b>#Days</b>
+         </th>
+         <th align="center">
+            <b>%</b>
+         </th>
       </tr>
       <tr>
          <td><img src="{{site.baseurl}}/images/country/china.png" alt="" /></td>
