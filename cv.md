@@ -9,5 +9,5 @@ comments: false
 
 A walker in this blue world.
 
-You can also download my <a href="{{site.baseurl}}/docs/prospective.pdf" target="_blank">full CV</a> in PDF.
+You can also download my <a href="{{site.baseurl}}/docs/vision.pdf" target="_blank">full CV</a> in PDF.
 
