@@ -3,6 +3,7 @@ layout: post
 title: "Two Days' Vacation Time in Dalian"
 date: 2019-09-15
 author: anchor
+tags: ["life", "travel"]
 ---
 
 This short vacation began for an idea coming into my mind in a hard-to-sleep night.
