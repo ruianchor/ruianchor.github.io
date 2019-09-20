@@ -106,6 +106,13 @@ Here's a summary of where I've spent my life (Some of these are of course estima
       </tr>
       <tr>
          <td><img src="{{site.baseurl}}/images/country/china.png" alt="" /></td>
+         <td>Huizhou</td>
+         <td>China</td>
+         <td>1</td>
+         <td>0.01</td>
+      </tr>
+      <tr>
+         <td><img src="{{site.baseurl}}/images/country/china.png" alt="" /></td>
          <td>Zhengzhou</td>
          <td>China</td>
          <td>2</td>
