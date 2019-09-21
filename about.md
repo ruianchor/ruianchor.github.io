@@ -9,8 +9,7 @@ comments: false
 
 ----
 
-<strong><i><font size = "+1">A man's true delight is to do the things he was made for. </font></i></strong>
-<div style="text-align: right"><strong><i>- Marcus Aurelius</strong></i></div>
+<strong><i><font size = "+1">A man's true delight is to do the things he was made for. - Marcus Aurelius</font></i></strong>
 
 ----
 
