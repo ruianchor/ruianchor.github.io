@@ -3,13 +3,13 @@ layout: page
 permalink: /about/
 title: About Me
 tags: [personal]
-modified: 9-16-2019
+modified: 9-23-2019
 comments: false
 ---
 
 ----
 
-<strong><i><font size = "+1">A man's true delight is to do the things he was made for. - Marcus Aurelius</font></i></strong>
+<strong><i><font size = "+1">"There is a crack in everything...that's how the light gets in."  - Anthem/Leonard Cohen</font></i></strong>
 
 ----
 
