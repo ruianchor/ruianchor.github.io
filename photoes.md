@@ -14,15 +14,15 @@ comments: false
 <center>
 <h3>2019</h3>
 
-[Dalian](/images/2019/0914-dalian.md)
+[Dalian]({{site.baseurl}}/images/2019/0914-dalian.md)
 
 <h3>2018</h3>
 
-[Huizhou](/images/2018/0403-huizhou.md) &nbsp; &nbsp; &nbsp; &nbsp; [Zhuhai](/images/2019/0120-zhuhai.md)
+[Huizhou]({{site.baseurl}}/images/2018/0403-huizhou.md) &nbsp; &nbsp; &nbsp; &nbsp; [Zhuhai]({{site.baseurl}}/images/2019/0120-zhuhai.md)
 
 
 <h3>2017</h3>
 
-[Shenzhen](/images/2017/1224-shenzhen.md)
+[Shenzhen]({{site.baseurl}}/images/2017/1224-shenzhen.md)
 
 </center>
