@@ -7,7 +7,7 @@ modified: 8-21-2019
 comments: false
 ---
 
-<strong><i><font size = "+1">"Go Ducks! Go Dolphins! And Go fishes!".  - By Myself</font></i></strong>
+<strong><i><font size = "+1">"Go Ducks! Go Dolphins! And Go fishes!"  - By Myself</font></i></strong>
 
 ----
 
