@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/
+permalink: /0120-zhuhai/
 title: Zhuhai
 tags: [personal]
 date: 1-20-2018

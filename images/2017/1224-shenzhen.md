@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/
+permalink: /1224-shenzhen/
 title: Shenzhen
 tags: [personal]
 date: 12-24-2017
