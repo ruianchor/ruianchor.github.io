@@ -12,9 +12,6 @@ comments: false
 ----
 
 <center>
-<table bgcolor="black" cellspacing=2 cellpadding=4><tr><td bgcolor="white">
-<table cellspacing=5> <tr align=center valign=top>
-
 <td>
 <font color=black>
 <b>2019</b><br>
@@ -37,13 +34,11 @@ comments: false
 
 <td>
 <font color=black>
-<b>2019</b><br>
+<b>2017</b><br>
 <small>
 <a href="{{site.baseurl}}/images/2017/1224-shenzhen/"><font color=blue>
 	Shenzhen</font></a><br>
 </small>
 </font>
 
-</table>
-</table>
 </center>
