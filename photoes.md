@@ -11,18 +11,16 @@ comments: false
 
 ----
 
-<center>
-<strong><font size = "+2">2019</font></strong>
+<center><strong><font size = "+2">2019</font></strong></center>
 
-[Dalian]({{site.baseurl}}/images/2019/0914-dalian.md)
+<a href="/images/2019/0914-dalian.md"><font color=blue>Dalian</font></a><br>
 
-<strong><font size = "+2">2018</font></strong>
+<center><strong><font size = "+2">2018</font></strong></center>
 
-[Huizhou]({{site.baseurl}}/images/2018/0403-huizhou.md) &nbsp; &nbsp; &nbsp; &nbsp; [Zhuhai]({{site.baseurl}}/images/2019/0120-zhuhai.md)
+<a href="/images/2018/0403-huizhou.md"><font color=blue>Huizhou</font></a> &nbsp;&nbsp; <a href="/images/2019/0120-zhuhai.md"><font color=blue>Zhuhai</font></a><br>
 
+<center><strong><font size = "+2">2017</font></strong></center>
 
-<strong><font size = "+2">2017</font></strong>
-
-[Shenzhen]({{site.baseurl}}/images/2017/1224-shenzhen.md)
+<a href="/images/2017/1224-shenzhen.md"><font color=blue>Shenzhen</font></a><br>
 
 </center>
