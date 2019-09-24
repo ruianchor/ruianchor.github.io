@@ -36,6 +36,8 @@ links:
     url: /post/
   - title: Personal
     url: /personal/
+  - title: Photo Album
+    url: /album/
   - title: About
     url: /about/
 
