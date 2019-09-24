@@ -13,24 +13,13 @@ comments: false
 
 <center>
 <h3>2019</h3>
-<small>
-<a href="/images/2019/0914-dalian.md"><font color=blue>
-	Dalian</font></a><br>
-</small>
+[Dalian](/images/2019/0914-dalian.md)
 
 <h3>2018</h3>
-<small>
-<a href="/images/2018/0403-huizhou.md"><font color=blue>
-	Huizhou</font></a><br>
-<a href="/images/2019/0120-zhuhai.md"><font color=blue>
-	Zhuhai</font></a><br>
-</small>
+[Huizhou](/images/2018/0403-huizhou.md) &nbsp; &nbsp; &nbsp; &nbsp; [Zhuhai](/images/2019/0120-zhuhai.md)
 
 
 <h3>2017</h3>
-<small>
-<a href="/images/2017/1224-shenzhen.md"><font color=blue>
-	Shenzhen</font></a><br>
-</small>
+[Shenzhen](/images/2017/1224-shenzhen.md)
 
 </center>
