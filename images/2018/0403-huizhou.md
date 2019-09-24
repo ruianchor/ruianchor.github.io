@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /0403-huizhou/
+permalink: /images/2018/0403-huizhou/
 title: Huizhou
 tags: [personal]
 date: 4-3-2018

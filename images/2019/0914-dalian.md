@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /1914-dalian/
+permalink: /images/2019/1914-dalian/
 title: Dalian
 tags: [personal]
 date: 9-14-2019
