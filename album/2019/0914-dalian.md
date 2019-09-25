@@ -3,8 +3,8 @@ layout: page
 permalink: /album/2019/1914-dalian/
 title: Dalian
 tags: [personal]
-date: 2019-9-14
-modified: 2019-9-25
+date: 2019-09-14
+modified: 2019-09-25
 comments: false
 ---
 
