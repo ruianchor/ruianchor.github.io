@@ -32,7 +32,8 @@ comments: false
 <center><strong><font size = "+2">2017</font></strong></center>
 
 <p align="center">
-	[Shenzhen](album/2017/1224-shenzhen.md)
+	<a href="album/2017/1224-shenzhen.md"><font color=blue>
+	Shenzhen</font></a>
 </p>
 <center>
 ------------
