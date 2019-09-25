@@ -19,7 +19,7 @@ comments: false
 
 <center><strong><font size = "+2">2018</font></strong></center>
 
-<div style="text-align: center;font: Blue"><a href="{{site.baseurl}}/images/2018/0403-huizhou.md">Huizhou</a> &nbsp;&nbsp; <a href="{{site.baseurl}}/images/2019/0120-zhuhai.md">Zhuhai</a></div>
+[Huizhou](images/2018/0403-huizhou.md) &nbsp;&nbsp; [Zhuhai](images/2018/0120-zhuhai.md)
 
 <center>------------</center>
 
