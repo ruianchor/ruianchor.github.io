@@ -3,7 +3,7 @@ layout: page
 permalink: /album/
 title: Rui Anchor's Photo Album
 tags: [personal]
-modified: 9-24-2019
+modified: 2019-9-24
 comments: false
 ---
 
