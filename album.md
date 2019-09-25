@@ -23,7 +23,7 @@ comments: false
 <center><strong><font size = "+2">2018</font></strong></center>
 
 <p align="center">
-	[Huizhou](album/2018/0403-huizhou.md) &nbsp;&nbsp; [Zhuhai](album/2018/0120-zhuhai.md)
+<table><tr><td bgcolor=#40E0D0>[Huizhou](album/2018/0403-huizhou.md) &nbsp;&nbsp; [Zhuhai](album/2018/0120-zhuhai.md)</td></tr></table>
 </p>
 <center>
 ------------
