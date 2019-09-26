@@ -13,7 +13,8 @@ image:
 
 <br />
 Things deserve to be recorded and shared to those who are meant to encounter in destiny. I (mostly) avoid social media.
-<br>
+
+<br />
 
 *Disclaimer: I have other things to do with my time than build an exciting personal web page, but everything you need should be here.*
 

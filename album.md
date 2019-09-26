@@ -14,23 +14,20 @@ comments: false
 <center>
 <h3>2019</h3>
 <small>
-<a href="album/2019/0914-dalian"><font color=blue>
-	Shenzhen</font></a><br>
+<a href="2019/0914-dalian" style="color:rgb(0,0,255)">Dalian</a><br>
 </small>
 
 <h3>2018</h3>
 <small>
-<a href="album/2018/0403-huizhou"><font color=blue>
-	Huizhou</font></a><br>
-<a href="album/2019/0120-zhuhai"><font color=blue>
-	Zhuhai</font></a><br>
+<a href="2018/0403-zhuhai" style="color:rgb(0,0,255)">Zhuhai</a> &nbsp; &nbsp;
+<a href="2018/0127-wuhan" style="color:rgb(0,0,255)">Wuhan</a> &nbsp; &nbsp;
+<a href="2018/0403-huizhou" style="color:rgb(0,0,255)">Huizhou</a><br>
 </small>
 
 
 <h3>2017</h3>
 <small>
-<a href="album/2017/1224-shenzhen"><font color=blue>
-	Shenzhen</font></a><br>
+<a href="2017/1224-shenzhen" style="color:rgb(0,0,255)">Shenzhen</a><br>
 </small>
 
 </center>
