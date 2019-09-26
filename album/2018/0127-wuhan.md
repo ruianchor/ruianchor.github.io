@@ -21,14 +21,14 @@ comments: false
 
 <p style="color:rgb(0,0,255);text-align:center;">Some food (so-called Xiaochi) I really enjoyed in those memorable days.</p><br>
 <p align="center">
-	<img src="{{site.baseurl}}/album/2018/wuhan/3.jpg" width="560"  height="400"><br>
-	<img src="{{site.baseurl}}/album/2018/wuhan/4.jpg" width="560"  height="400">
+	<img src="{{site.baseurl}}/album/2018/wuhan/3.JPG" width="560"  height="400"><br>
+	<img src="{{site.baseurl}}/album/2018/wuhan/4.JPG" width="560"  height="400">
 </p>
 <br>
 
 <p style="color:rgb(0,0,255);text-align:center;">A dog came by when I laid down on the yard outside the library in a afternoon.</p><br>
 <p align="center">
-	<img src="{{site.baseurl}}/album/2018/wuhan/5.jpg" width="450"  height="600">
+	<img src="{{site.baseurl}}/album/2018/wuhan/5.JPG" width="450"  height="600">
 </p>
 <br>
 <br>
