@@ -11,26 +11,26 @@ comments: false
 
 ----
 
-<center><strong><font size = "+2">2019</font></strong></center>
-
-->[Dalian](album/2019/0914-dalian.md)<-
-
 <center>
-------------
-</center>
+<h3>2019</h3>
+<small>
+<a href="album/2019/0914-dalian"><font color=blue>
+	Shenzhen</font></a><br>
+</small>
 
-<center><strong><font size = "+2">2018</font></strong></center>
+<h3>2018</h3>
+<small>
+<a href="album/2018/0403-huizhou"><font color=blue>
+	Huizhou</font></a><br>
+<a href="album/2019/0120-zhuhai"><font color=blue>
+	Zhuhai</font></a><br>
+</small>
 
-->[Huizhou](album/2018/0403-huizhou.md) &nbsp;&nbsp; [Zhuhai](album/2018/0120-zhuhai.md)<-
 
-<center>
-------------
-</center>
+<h3>2017</h3>
+<small>
+<a href="album/2017/1224-shenzhen"><font color=blue>
+	Shenzhen</font></a><br>
+</small>
 
-<center><strong><font size = "+2">2017</font></strong></center>
-
-->[Shenzhen](album/2017/1224-shenzhen.md)<-
-
-<center>
-------------
 </center>

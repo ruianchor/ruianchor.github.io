@@ -10,3 +10,54 @@ comments: false
 
 <h2>({{ page.date | date: "%B %-d, %Y"}})</h2>
 ----
+
+<center><font color=blue>A gorgeous model in a famous building and a view when passed by a hotel.</font><br></center>
+<p align="center">
+	<img src="{{site.baseurl}}/album/2017/shenzhen/1.jpg" width="560"  height="400">
+	&nbsp;
+	<img src="{{site.baseurl}}/album/2017/shenzhen/2.jpg" width="560"  height="400">
+</p>
+<br>
+
+<center><font color=blue>Many beautiful fishes in the park.</font><br></center>
+<p align="center">
+	<img src="{{site.baseurl}}/album/2017/shenzhen/3.jpg" width="560"  height="400">
+</p>
+<br>
+<br>
+
+<center><font color=blue>The highest mountain in Shenzhen - Wutong Hill.</font><br></center>
+<p align="center">
+	<img src="{{site.baseurl}}/album/2017/shenzhen/4.jpg" width="560"  height="400">
+	&nbsp;
+	<img src="{{site.baseurl}}/album/2017/shenzhen/5.jpg" width="560"  height="400">
+</p>
+<br>
+<br>
+
+<center><font color=blue>Very happy I was at the concert of Jacky Cheung at that time.</font><br></center>
+<p align="center">
+	<img src="{{site.baseurl}}/album/2017/shenzhen/6.jpg" width="560"  height="400">
+	&nbsp;
+	<img src="{{site.baseurl}}/album/2017/shenzhen/7.jpg" width="560"  height="400">
+</p>
+<br>
+
+<p align="center">
+	<img src="{{site.baseurl}}/album/2017/shenzhen/8.jpg" width="560"  height="400">
+</p>
+<br>
+<br>
+
+<center><font color=blue>The most frequently I visited mountain in Shenzhen - Yangtai Hill.</font><br></center>
+<p align="center">
+	<img src="{{site.baseurl}}/album/2017/shenzhen/9.jpg" width="560"  height="400">
+	&nbsp;
+	<img src="{{site.baseurl}}/album/2017/shenzhen/10.jpg" width="560"  height="400">
+</p>
+<br>
+
+<p align="center">
+	<img src="{{site.baseurl}}/album/2017/shenzhen/11.jpg" width="560"  height="400">
+</p>
+<br>
