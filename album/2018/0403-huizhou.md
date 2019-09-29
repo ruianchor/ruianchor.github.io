@@ -18,7 +18,7 @@ comments: false
 <br>
 <br>
 
-<p style="color:rgb(0,0,255);text-align:center;">A bird-view of sea from the mountain.</p><br>
+<p style="color:rgb(0,0,255);text-align:center;">A bird-view of the sea from the mountain.</p><br>
 <p align="center">
 	<img src="{{site.baseurl}}/album/2018/huizhou/2.jpg" width="560"  height="400">
 </p>

@@ -25,7 +25,7 @@ comments: false
 <br>
 <br>
 
-<p style="color:rgb(0,0,255);text-align:center;">The highest mountain in Shenzhen - Wutong Hill.</p><br>
+<p style="color:rgb(0,0,255);text-align:center;">The highest mountain I climbed in Shenzhen - Wutong Hill.</p><br>
 <p align="center">
 	<img src="{{site.baseurl}}/album/2017/shenzhen/4.jpg" width="560"  height="400"><br>
 	<img src="{{site.baseurl}}/album/2017/shenzhen/5.jpg" width="560"  height="400">
@@ -33,7 +33,7 @@ comments: false
 <br>
 <br>
 
-<p style="color:rgb(0,0,255);text-align:center;">Very happy I was at the concert of Jacky Cheung at that time.</p><br>
+<p style="color:rgb(0,0,255);text-align:center;">Very happy I did be at the concert of Jacky Cheung at that time.</p><br>
 <p align="center">
 	<img src="{{site.baseurl}}/album/2017/shenzhen/6.jpg" width="560"  height="400"><br>
 	<img src="{{site.baseurl}}/album/2017/shenzhen/7.jpg" width="560"  height="400">
@@ -46,7 +46,7 @@ comments: false
 <br>
 <br>
 
-<p style="color:rgb(0,0,255);text-align:center;">The most frequently I visited mountain in Shenzhen - Yangtai Hill.</p><br>
+<p style="color:rgb(0,0,255);text-align:center;">The mountain that I visited the most frequently in Shenzhen - Yangtai Hill.</p><br>
 <p align="center">
 	<img src="{{site.baseurl}}/album/2017/shenzhen/9.jpg" width="560"  height="400"><br>
 	<img src="{{site.baseurl}}/album/2017/shenzhen/10.jpg" width="560"  height="400">
