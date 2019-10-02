@@ -13,12 +13,14 @@ owner:
   bio:            I'm a walker in this blue world. Currently enjoy my life on Earth, Universe. Passionate about walking, and mountains.
   email:          rui.anchor@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        ruianchor
+#  twitter:        ruianchor
 #  linkedin:       ruianchor
   facebook:       rui.anchor.5
   instagram:      ruianchor
 #  github:         ruianchor
-  google_scholar: 
+  google_scholar: ruianchor
+  pinterest:      ruianchor
+  stackoverflow:  ruianchor
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-52736040-1
 google_verify:
