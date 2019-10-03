@@ -32,3 +32,22 @@ comments: false
 </p>
 <br>
 <br>
+
+<p style="color:rgb(0,0,255);text-align:center;">Han Show in Wuhan, that was incredibly awesome, really worth watching one time in your life.</p><br>
+<p align="center">
+	<img src="{{site.baseurl}}/album/2018/wuhan/6.jpg" width="560"  height="400"><br>
+	<img src="{{site.baseurl}}/album/2018/wuhan/7.jpg" width="560"  height="400"><br>
+	<img src="{{site.baseurl}}/album/2018/wuhan/8.jpg" width="560"  height="400">
+</p>
+<br>
+<br>
+
+<p style="color:rgb(0,0,255);text-align:center;">Delicious Xiaochi in Hubu Xiang, a famous viewpoint in Wuhan.</p><br>
+<p align="center">
+	<img src="{{site.baseurl}}/album/2018/wuhan/9.jpg" width="270"  height="400">&nbsp; <img src="{{site.baseurl}}/album/2018/wuhan/10.jpg" width="270"  height="400"><br>
+<br>
+	<img src="{{site.baseurl}}/album/2018/wuhan/11.jpg" width="560"  height="400"><br>
+<br>
+	<img src="{{site.baseurl}}/album/2018/wuhan/12.jpg" width="560"  height="400">
+</p>
+<br>
