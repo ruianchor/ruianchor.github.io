@@ -18,5 +18,9 @@ Things deserve to be recorded and shared to those who are meant to encounter in 
 
 *Disclaimer: I have other things to do with my time than build an exciting personal web page, but everything you need should be here.*
 
-### 📢NEWS
-**[Sep 16th, 2019]** - Drinked a bottle of Germany beer again!
+### 📰NEWS
+* **[Oct 4th, 2019]** - Another 23 kilometers' hiking with 5 hours and a half across Songjiang and Minhang District!<br>
+* **[Sep 16th, 2019]** - Drinked a bottle of Germany beer again!<br>
+* **[Jul 20th, 2019]** - Took a 20 kilometers' hike in Pudong with 6 hours!
+  
+----
