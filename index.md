@@ -24,5 +24,5 @@ Things deserve to be recorded and shared to those who are meant to encounter in 
 * **[Jul 20th, 2019]** - Took a 20 kilometers' hike in Pudong with 6 hours!
   
 ----
-
-<center><a href="https://info.flagcounter.com/IAC2"><img src="https://s11.flagcounter.com/count2/IAC2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a></center><br>
+<center><strong>MANY THANKS FOR YOUR VISITING!</strong></center>
+<center><a href="https://info.flagcounter.com/IAC2"><img src="https://s11.flagcounter.com/count2/IAC2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a></center>
