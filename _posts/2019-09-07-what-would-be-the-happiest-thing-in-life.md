@@ -18,7 +18,7 @@ Today, I Looked through a slide about SoftBank's Next 30 Years Vision downloaded
 </p>
 <br>
 
-They are truely around us, but many of us have failed to achieve them for some reasons like having no time, always being busy with work et al.
+They are indeed around us, but many of us have failed to achieve them for some reason like having no time, always being busy with work et al.
 
 Life is a long journey, someone goes, and someone comes. It's you, YOU are the only one never leaving you.
 <br>

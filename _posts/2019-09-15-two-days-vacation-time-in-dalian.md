@@ -10,7 +10,7 @@ This short vacation began for an idea coming into my mind in a hard-to-sleep nig
 <br>
 <br>
 
-In this week, we had only four days for work because of the Chinese traditional Mid-Autumn Festival. So the weekend starts when off-work on Thursday. Maybe it's exactly the reason to make me have no willing to fall asleep that there are three days to fly myself, which means *放飞自我* in Chinese. Do something different would be a better choice instead of just staying at home in a normal way - playing computer games, watching tv series et al. So this is how it all begins.
+This week, we had only four days for work because of the Chinese traditional Mid-Autumn Festival. So the weekend starts when off-work on Thursday. Maybe it's exactly the reason to make me have no willing to fall asleep that there are three days to fly myself, which means *放飞自我* in Chinese. Do something different would be a better choice instead of just staying at home in a normal way - playing computer games, watching tv series et al. So this is how it all begins.
 <br>
 <br>
 
@@ -18,7 +18,7 @@ I booked a ticket flying to Dalian from Shanghai with my iPhone. The next day, i
 
 ### Stars Bay
 
-After I checked in my hotel, The **Stars Bay**, which is a not-too-long seashore, was the first destination I visited since the reason it being nearby my hotel, only 15 mins walking from it. Nevertheless it had little rain in the sky, there were still so many tourists going to Stars Bay. Two things impressed me the most, one was many local people were taking fishing there, another one was several men were swimming in the sea. Of course, many tourists were the local families - parents with their little boys and little girls.
+After I checked in my hotel, The **Stars Bay**, which is a not-too-long seashore, was the first destination I visited since the reason it being nearby my hotel, only 15 mins walking from it. Nevertheless, it had little rain in the sky, there were still so many tourists going to Stars Bay. Two things impressed me the most, one was many local people were taking fishing there, another one was several men were swimming in the sea. Of course, many tourists were the local families - parents with their little boys and little girls.
 <br>
 
 <p align="center">
@@ -32,7 +32,7 @@ It turned out everything was nice at the moment that I waked up in the morning o
 
 #### 1. In the Bird Singing Woods
 
-After taking the 2 minutes' cable car to cross the bayou, finally got onto the Bird Singing Woods, so many diifferent birds coming from all over the world singing there. 
+After taking the 2 minutes' cable car to cross the bayou, finally got onto the Bird Singing Woods, so many different birds coming from all over the world singing there. 
 
 <p align="center">
 	<img src="{{site.baseurl}}/images/190915/4.jpg" width="540"  height="280">

@@ -1,7 +1,7 @@
 title:            Rui Anchor's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //ruianchor.github.io
+#url:              //ruianchor.github.io
 #http://localhost:4000
 
 disqus_shortname: ruianchor
@@ -10,7 +10,7 @@ disqus_shortname: ruianchor
 owner:
   name:           Rui Anchor
   avatar:         profile.jpg
-  bio:            I'm a walker in this blue world. Currently enjoy my life on Earth, Universe. Passionate about walking, and mountains.
+  bio:            I'm a hiker in this blue world. Currently enjoy my life on Earth, Universe. Passionate about hiking, and mountains.
   email:          rui.anchor@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
 #  twitter:        ruianchor
