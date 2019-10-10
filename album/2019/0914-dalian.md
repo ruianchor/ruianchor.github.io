@@ -18,7 +18,7 @@ comments: false
 <br>
 <br>
 
-<p style="color:rgb(0,0,255);text-align:center;">See seagulls flew off while sitting on the cruise.</p><br>
+<p style="color:rgb(0,0,255);text-align:center;">Watch seagulls flew off while sitting on the cruise.</p><br>
 <p align="center">
 	<img src="{{site.baseurl}}/album/2019/dalian/3.jpg" width="460"  height="400">
 </p>
