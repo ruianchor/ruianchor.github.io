@@ -9,4 +9,4 @@ comments: false
 
 A hiker in this blue world.
 
-You can also download my <a href="{{site.baseurl}}/docs/vision.pdf" target="_blank">full CV</a> in PDF.
+You can also download my <a href="{{site.baseurl}}/docs/cv.pdf" target="_blank">full CV</a> in PDF.

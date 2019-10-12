@@ -12,7 +12,10 @@ image:
 <i>I am a hiker in this blue world.</i>
 
 <br />
-Minds or thoughts deserve to be wrote down and would be better to be shared with those who are meant to encounter in destiny. By the way, I have other things to do with my time than build an exciting personal web page, but everything you need should be here. I (mostly) avoid social media.
+<strong>Minds or thoughts deserve to be wrote down and would be better to be shared with those who are meant to encounter in destiny.</strong> 
+
+<br />
+By the way, I have other things to do with my time than build an exciting personal web page, but everything you need should be here. I (mostly) avoid social media.
 
 ### 📰NEWS
 * **[Oct 4th, 2019]** - Another 23 kilometers' hiking with 5 hours and a half across Songjiang and Minhang District!<br>
