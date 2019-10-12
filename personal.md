@@ -11,8 +11,7 @@ comments: false
 
 ----
 
-Once traveled in Suzhou, China. Lots of memories there.
-
+<p style="color:rgb(0,0,255);text-align:center;">Once traveled in Suzhou, China. Lots of memories there...</p><br>
 <p align="center">
 <img src="{{site.baseurl}}/images/cathouse.jpg" width="320" height="400"/>
 </p>

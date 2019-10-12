@@ -7,6 +7,6 @@ modified: 8-11-2019
 comments: false
 ---
 
-A walker in this blue world.
+A hiker in this blue world.
 
 You can also download my <a href="{{site.baseurl}}/docs/vision.pdf" target="_blank">full CV</a> in PDF.

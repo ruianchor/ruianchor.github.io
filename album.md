@@ -29,6 +29,11 @@ comments: false
 <a href="2017/1224-shenzhen" style="color:rgb(0,0,255)">Shenzhen</a><br>
 </small>
 
+<h3>2016</h3>
+<small>
+<a href="2016/1214-shanghai" style="color:rgb(0,0,255)">Shanghai</a><br>
+</small>
+
 <h3>2015</h3>
 <small>
 <a href="2015/0620-suzhou" style="color:rgb(0,0,255)">Suzhou</a> &nbsp; &nbsp;
