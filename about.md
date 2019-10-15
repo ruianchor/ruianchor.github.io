@@ -18,7 +18,7 @@ I grew up in Hubei, China but have always been loving to travel around, and have
 I spend most of my free time reading and hiking for facilitating and freshing my mind and keeping fit. Besides that, cooking is one of my favorite things to do. I love playing online games, listening to podcasts, exploring new music, and sometimes writing as well.
 
 ### Miscellaneous
-<center><span style="font-size: 100%"><strong>>>=PUZZLES=<<</strong></span></center>
+<center><h4>PUZZLES</h4></center>
 Began to be into solving puzzles since graduated from school. Below are some of my favorites - and you should know I have the answer.😸🍻
 
 <br />
