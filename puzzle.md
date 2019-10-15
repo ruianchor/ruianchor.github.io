@@ -7,9 +7,11 @@ modified: 2019-10-15
 comments: false
 ---
 
-<strong><i><font size = "+1">"Keep practice your mind, and think like computer scientists and mathematician.</font></i></strong>
+<strong><i><font size = "+1">"Keep practice your mind, and think like computer scientists and mathematicians.</font></i></strong>
 
 ----
+
+Some prominent puzzle resources.
 
 <p>&#9673;&nbsp;<a href="https://gurmeet.net/computer-science/puzzle-sites/index.html" style="color:rgb(0,0,255)">Puzzle Sites</a> by Gurmeet Manku</p>
 
