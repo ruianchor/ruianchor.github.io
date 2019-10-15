@@ -27,4 +27,4 @@ Began to be into solving puzzles since graduated from school. Below are some of 
 <p style="border:2px; border-style:solid; border-color:#DAA520; background-color:#87CEFA; padding: 0.5em;"><strong>Forty-five Minutes:</strong>How do we measure forty-five minutes using two wires, each of which takes an hour to burn. Unfortunately, the wires burn non-uniformly (sometimes faster, sometimes slower). We have plenty of matchsticks.</p>
 
 <br />
-<strong><i>Wanna explore more...let's get started beginning <a href="puzzle" style="color:rgb(0,0,255)">here</a>.</i></strong>
+<strong><i>Wanna explore more...let's get started beginning <a href="{{site.baseurl}}/puzzle" style="color:rgb(0,0,255)">here</a>.</i></strong>
