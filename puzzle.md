@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /puzzle/
-title: Rui Anchor's Favorite Puzzles
+title: My Favorite Puzzles
 tags: [personal]
 modified: 2019-10-15
 comments: false
