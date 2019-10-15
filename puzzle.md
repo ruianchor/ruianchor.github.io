@@ -11,8 +11,8 @@ comments: false
 
 ----
 
-Some prominent puzzle resources.
-
+<center><h3>Some prominent puzzle resources<h3></center>
+<small>
 <p>&#9673;&nbsp;<a href="https://gurmeet.net/computer-science/puzzle-sites/index.html" style="color:rgb(0,0,255)">Puzzle Sites</a> by Gurmeet Manku</p>
 
 <p>&#9673;&nbsp;<a href="http://www.cs.cmu.edu/puzzle/" style="color:rgb(0,0,255)">The Puzzle Road</a> by CMU</p>
@@ -22,3 +22,4 @@ Some prominent puzzle resources.
 <p>&#9673;&nbsp; Erich Friedman's <a href="https://www2.stetson.edu/~efriedma/published/" style="color:rgb(0,0,255)">Published Puzzles</a></p>
 
 <p>&#9673;&nbsp; Tanya Khovanova's <a href="http://www.tanyakhovanova.com/Puzzles/" style="color:rgb(0,0,255)">Favorite Puzzles</a></p>
+</small>
