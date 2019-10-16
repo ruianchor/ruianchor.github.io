@@ -18,7 +18,8 @@ I grew up in Hubei, China but have always been loving to travel around, and have
 I spend most of my free time reading and hiking for facilitating and freshing my mind and keeping fit. Besides that, cooking is one of my favorite things to do. I love playing online games, listening to podcasts, exploring new music, and sometimes writing as well.
 
 ### Miscellaneous
-<center><h4>PUZZLES</h4></center>
+
+#### PUZZLES
 Began to be into solving puzzles since graduated from school. Below are some of my favorites - and you should know I have the answer.😸🍻
 
 <br />
@@ -28,3 +29,16 @@ Began to be into solving puzzles since graduated from school. Below are some of 
 
 <br />
 <strong><i>Wanna explore more...let's get started beginning <a href="{{site.baseurl}}/puzzle" style="color:rgb(0,0,255)">here</a>.</i></strong>
+
+----
+
+#### SELF-INTERROGATION
+There is life-changing power in regular self-inquiry.
+
+<br />
+<p style="border:2px; border-style:solid; border-color:#DAA520; background-color:#87CEFA; padding: 0.5em;"><strong>Am I happy?</strong> <br>I would like to start with some yes or no questions to assess how I feel. I don't spend too much time answering these - I know that my first response is usually my truest one.</p><br>
+
+<p style="border:2px; border-style:solid; border-color:#DAA520; background-color:#87CEFA; padding: 0.5em;"><strong>Am I grateful?</strong> <br>I remind myself all the time to appreciate what I have. This question prompts me to do that.</p>
+
+<br />
+<strong><i>Wanna know me a little bit more...let's kick it off from this <a href="{{site.baseurl}}/myself" style="color:rgb(0,0,255)">list</a>.</i></strong>
