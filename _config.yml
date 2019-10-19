@@ -1,9 +1,5 @@
 title:            Rui Anchor's site
 description:      Welcome to my site.
-# Your site's domain goes here. Leave localhost server or blank when working locally.
-#url:              //ruianchor.github.io
-#http://localhost:4000
-
 disqus_shortname: ruianchor
 
 # Owner/author information
@@ -17,11 +13,9 @@ owner:
 #  linkedin:       ruianchor
   facebook:       rui.anchor.5
   instagram:      ruianchor
-#  github:         ruianchor
   google_scholar: ruianchor
   pinterest:      ruianchor
   stackoverflow:  ruianchor
-#  steam:          ruianchor
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-52736040-1
 google_verify:

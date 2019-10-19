@@ -8,10 +8,10 @@ comments: false
 ---
 
 ----
-You might have known who I am, where I have been, and how I live my life. Below questions would facilitate to understand me better literally.
+You might have known who I am, where I have been, and how I live my life. Below questions would literally facilitate to understand me better.
 
 ### 1. Am I happy?
-You know that the first response is usually the truest one.
+You know that the first response is usually the truest one. It actually depends on the life in that period when you asked this question.
 
 ### 2. Am I grateful?
 This question prompts me to appreciate what I have.
@@ -27,3 +27,6 @@ If I don’t have a good answer for this one, I know it’s time to make a chang
 
 ### 6. How can I help one person today?
 My life has more meaning when I do something generous with my time. For example, held door for a middle-age foreign lady and a young family with a baby, in return, I obtained a "thank you" and a kind smile respectively.
+
+### 7. What is the best advice you ever received?
+There is a Chinese old saying - 欲知前方路，但询归来人, which means *to know the road ahead, ask those coming back*.

@@ -11,6 +11,10 @@ comments: false
 
 ----
 
+<p style="border:2px; border-style:solid; border-color:#FFFFFF; background-color:#AFEEEE; padding: 0.5em;"><strong>Cheryl's Birthday:</strong>Albert and Bernard just became friends with Cheryl, and they want to know when her birthday is. Cheryl gives them 10 possible dates: May 15, May 16, May 19, June 17, June 18, July 14, July 16, August 14, August 15, August 17. Cheryl tells Albert the month, and Bernard the day. First Albert says: "I don't know Cheryl's birthday, but Bernard does not know as well!". Bernard then says: "Now I know Cheryl's birthday, and so does Albert!". When is her birthday?</p>&nbsp;
+<p style="border:2px; border-style:solid; border-color:#FFFFFF; background-color:#AFEEEE; padding: 0.5em;"><strong>Forty-five Minutes:</strong>How do we measure forty-five minutes using two wires, each of which takes an hour to burn. Unfortunately, the wires burn non-uniformly (sometimes faster, sometimes slower). We have plenty of matchsticks.</p>
+
+<br/>
 <strong>Some prominent resources for puzzle lovers:</strong>
 
 <p>&nbsp;&nbsp;&nbsp;&#9679;&nbsp;<a href="https://gurmeet.net/computer-science/puzzle-sites/index.html" style="color:rgb(0,0,255)">Puzzle Sites</a> by Gurmeet Manku</p>
