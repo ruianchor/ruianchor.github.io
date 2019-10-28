@@ -19,22 +19,4 @@ I spend most of my free time reading and hiking for facilitating and freshing my
 
 ### Miscellaneous
 
-#### PUZZLES
-Began to be into solving puzzles since graduated from school. Below are some of my favorites - and you should know I have the answer.😸🍻
-
-<br />
-<p style="border:2px; border-style:solid; border-color:#FFFFFF; background-color:#AFEEEE; padding: 0.5em;"><strong>The Parking Lot:</strong> What is the number of the parking space containing the car? <br><img src="{{site.baseurl}}/images/parking.gif" width="240" height="400"/></p><br>
-
-<br />
-<strong><i>Wanna explore more...let's get started beginning <a href="{{site.baseurl}}/puzzle" style="color:rgb(0,0,255)">here</a>.</i></strong>
-
-----
-
-#### SELF-INTERROGATION
-There is life-changing power in regular self-inquiry.
-
-<br />
-<p style="border:2px; border-style:solid; border-color:#FFFFFF; background-color:#AFEEEE; padding: 0.5em;"><strong>Am I happy?</strong> <br>I would like to start with some yes or no questions to assess how I feel. I don't spend too much time answering these - I know that my first response is usually my truest one.</p><br>
-
-<br />
-<strong><i>Wanna know me a little bit more...let's kick it off from this <a href="{{site.baseurl}}/myself" style="color:rgb(0,0,255)">list</a>.</i></strong>
+Coming soon...
