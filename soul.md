@@ -11,7 +11,7 @@ comments: false
 <strong><i><font size = "+1">"What is dead may never die."  - Game of Thrones</font></i></strong>
 
 <br />
-Not quite sure whether the above quote is used appropriately here or not...it naturally came into my mind when edited this page.
+Not quite sure whether the above quote is used appropriately here or not...anyway, it naturally came into my mind when edited this page.
 
 ----
 
