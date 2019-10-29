@@ -6,9 +6,6 @@ tags: [personal]
 modified: 9-23-2019
 comments: false
 ---
-
-<strong><i><font size = "+1">"There is a crack in everything...that's how the light gets in."  - Anthem/Leonard Cohen</font></i></strong>
-
 ----
 
 ### Brief biography
@@ -19,4 +16,4 @@ I spend most of my free time reading and hiking for facilitating and freshing my
 
 ### Miscellaneous
 
-Coming soon...
+* In memory of those great immortal <a href="{{site.baseurl}}/souls" style="color:rgb(0,0,255)">souls</a>...
