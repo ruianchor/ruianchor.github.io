@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /souls/
+permalink: /stars/
 title: Shining Stars In The Night Sky
 tags: [personal]
 modified: 2019-10-29
