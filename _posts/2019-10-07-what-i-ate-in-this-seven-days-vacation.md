@@ -6,7 +6,7 @@ author: anchor
 tags: ["life", "travel"]
 ---
 
-Unexpectedly, no delicacies - without enough funds adding have no idea how to cook them. So bought some beefsteaks and chicken wings as the source of meat, definitely considering that they can be dealt more easily. So... as you may not wish, I finished them in seven days by means of one meal for each day. 
+Not surprisingly, no delicacies - without enough funds adding have no idea how to cook them. So bought some beefsteaks and chicken wings as the source of meat, definitely considering that they can be dealt more easily. So... as you may not wish, I finished them in seven days by means of one meal for each day. 
 
 <br />
 
