@@ -9,9 +9,6 @@ image:
 
 ----
 
-<i>I am a hiker in this blue world.</i>
-
-<br />
 <strong>Minds or thoughts deserve to be wrote down and would be better to be shared with those who are meant to encounter in destiny.</strong> 
 
 <br />
