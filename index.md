@@ -15,6 +15,7 @@ image:
 By the way, I have other things to do with my time than build an exciting personal web page, but everything you need should be here. I (mostly) avoid social media.
 
 ### 📰NEWS
+* **[Nov 11th, 2019]** - Another 20 kilometers' hiking in Pudong with 4 hours and a half, and more surprisingly had some yummy food along the way!<br>
 * **[Oct 4th, 2019]** - Another 23 kilometers' hiking with 5 hours and a half across Songjiang and Minhang District!<br>
 * **[Sep 16th, 2019]** - Drank a bottle of Germany beer again!<br>
 * **[Jul 20th, 2019]** - Took a 20 kilometers' hike in Pudong with 6 hours!
